@@ -9,7 +9,8 @@ Upon entering the location details, AgriPlanner's algorithm processes the provid
 As an example, if the user selects the state as Andhra Pradesh and specifies the district, AgriPlanner employs its advanced data analysis capabilities to generate a recommended crop type and the corresponding fertilizer blend. This recommendation is based on the specific nutrient levels, weather conditions, and other factors unique to the chosen location.
 
 AgriPlanner serves as a powerful tool that empowers farmers to make informed decisions when planning their crops. By accounting for local variations in soil quality and climate, the project contributes to sustainable agricultural practices and improved productivity. It bridges the gap between traditional farming techniques and modern technology, resulting in optimized crop yields, reduced resource wastage, and increased economic efficiency for farmers in different regions.
-The model is deployed using streamlit and this is hwo the front end terminal looks like
+
+The model is deployed using streamlit and this is how the frontend terminal looks like-
 <img width="793" alt="Screenshot 2023-08-06 at 11 09 25 AM" src="https://github.com/shreya241103/AgriPlanner/assets/115857097/e79cc1b0-6a40-43fa-a57a-77508e299a97">
 
 The output for crop recommendation
