@@ -1,4 +1,4 @@
-#AgriPlanner - Optimizing Crop Planning using Environmental Factors
+**AgriPlanner - Optimizing Crop Planning using Environmental Factors**
 
 AgriPlanner is an innovative agricultural project designed to assist farmers in optimizing their crop planning based on key environmental factors. The project takes into account essential parameters such as Nitrogen (N), Phosphorus (P), Potassium (K) levels in the soil, as well as external factors like Temperature (in degrees), Humidity (in %), pH level, and Rainfall (in mm). By leveraging this comprehensive dataset, AgriPlanner aims to provide tailored crop and fertilizer recommendations to farmers.
 
